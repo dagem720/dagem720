@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dagmawi Gebremariam</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagem720" alt="dagem720" /></a> </p>
-
 - 📫 How to reach me **https://www.linkedin.com/in/dagmawi-gebremariam-7676ab186/**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagem720&show_icons=true&locale=en&layout=compact" alt="dagem720" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagem720&show_icons=true&locale=en" alt="dagem720" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagem720&" alt="dagem720" /></p>
