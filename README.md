@@ -221,7 +221,7 @@
  
 </p>
 
-<p style="margin-bottom:10px">
+<p style="margin-bottom:70px">
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dagem720&theme=dark&background=000000&show_icons=true&locale=en&layout=compact"
