@@ -228,7 +228,7 @@
     alt="dagem720"
   />
 </p>
-<br/>
+
 <p>
   &nbsp;<img
     align="center"
@@ -236,7 +236,7 @@
     alt="dagem720"
   />
 </p>
-<br/>
+
 <p>
   <img
     align="center"
