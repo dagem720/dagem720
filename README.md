@@ -192,15 +192,7 @@
  
 </p>
 <br/>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dagem720&theme=dark&background=000000&show_icons=true&locale=en"
-    alt="dagem720"
-  />
-</p>
 
-<br/>
 
 <p>
   <img
