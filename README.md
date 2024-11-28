@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 - 📫 How to reach me
-**https://www.linkedin.com/in/dagmawi-gebremariam-7676ab186/**
+**https://linkedin.com/dagem720**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
